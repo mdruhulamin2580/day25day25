@@ -1,0 +1,132 @@
+
+
+.praking{}
+.praking .poro {
+    text-align: center;
+    margin-top: 52px;
+  }
+.praking .poro h4 {
+    color: blue;
+  }
+.praking .poro h1{}
+.praking .poro h5 {
+    height: 2px;
+    width: 100px;
+    background: #0004ff;
+    margin: auto;
+  }
+
+
+}
+.poro p{
+
+    padding-top: 20px;
+    max-width: 50%;
+    margin: auto;
+    font-weight: 1;
+
+}
+.poro p {
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .pp h5 {
+    font-size: 15px;
+    padding-bottom: 11px;
+  }
+  .hh .btn.btn-primary {
+    margin-top: 47px;
+    padding-left: 34px;
+    padding-right: 34px;
+    border-radius: 22px;
+  }
+  .pp h2 {
+    font-size: 51px;
+    font-weight: 500;
+    margin-bottom: 35px;
+  }
+  .btn.btn-primary {
+    padding-left: 33px;
+    padding-right: 33px;
+    border-radius: 17px;
+    transition: .7s;
+  }
+
+  .hover :hover{
+    background: #0004ff;
+  }
+.hhr:hover{
+  background-color: blue;
+}
+/* selaider */
+.selaider{
+  background-image: url(https://i.ibb.co/KxrYV23/free-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 100px;
+
+  
+}
+.selaider p {
+  text-align: center;
+  color: white;
+}
+.selaider h1 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+  line-height: 30px;
+}
+
+.selaider h4 {
+  height: 2px;
+  width: 170px;
+  background-color: black;
+  margin: auto;
+    margin-top: auto;
+  margin-top: 17px;
+}
+.selaider h6 {
+  color: white;
+  font-size: 17px;
+  margin-bottom: 35px;
+}
+.ll {
+  background-color: blue;
+  margin-top: 101px;
+  text-align: center;
+}
+.k h3 {
+  color: white;
+  margin-bottom: 57px;
+}
+
+.k p {
+  color: white;
+  margin-bottom: 76px;
+}
+.k {
+  margin: 35px;
+}
+#exampleFormControlInput1 {
+  border-radius: 20px;
+}
+.btn-outline-primary.pos {
+  position: relative;
+  margin-left: 318px;
+  margin-top: -97px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 20px;
+}
+.whit p {
+  color: wheat;
+}
+.whit p {
+  color: wheat;
+}
+h3 {
+  color: wheat;
+}
